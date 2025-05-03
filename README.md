@@ -1,5 +1,11 @@
-<h1 align="center">👋 Hola, soy [Tu Nombre]</h1>
-<h3 align="center">[Tu título o especialidad profesional]</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center"> David José Espinoza Soto </h1>
+<h2 align="center">
+  Ingeniero en Computación<br>
+  <span style="font-size: 5px; font-style: italic;">Bachiller Universitario</span>
+</h2>
+
 
 <p align="center">
   <img src="[URL de tu foto o banner opcional]" alt="banner" />
