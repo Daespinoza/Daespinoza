@@ -41,9 +41,7 @@ Actualmente, amplío mis habilidades en **frontend** con:
 
 💡 Me apasiona crear **soluciones integrales** y mantenerme actualizado en **nuevas tecnologías**.
 
----
-
-## 🧩 Conocimientos destacados
+## 🧩 Conocimientos adquiridos en la universidad
 
 ### 💻 Desarrollo de software
 - Diseño de software
@@ -56,6 +54,10 @@ Actualmente, amplío mis habilidades en **frontend** con:
 ### 🗄️ Bases de datos y backend
 - Bases de datos I y II
 - Seguridad del software
+
+<picture>
+  <img align="right" src="RetratoGhibli.jpeg" width="250px" style="border: 2px solid #000; border-radius: 20px;">
+</picture>
 
 ### 🧮 Algoritmos y estructuras
 - Estructura de datos
