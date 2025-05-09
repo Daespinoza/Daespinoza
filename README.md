@@ -13,7 +13,7 @@
   <a href="mailto:dev.daespinoza@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="#!">
+  <a href="https://raw.githubusercontent.com/Daespinoza/Daespinoza/main/cv-david-espinoza-2025.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Currículum-000?style=for-the-badge&logo=readme&logoColor=white" alt="Currículum">
   </a>
 </p>
@@ -54,10 +54,6 @@ Actualmente, amplío mis habilidades en **frontend** con:
 ### 🗄️ Bases de datos y backend
 - Bases de datos I y II
 - Seguridad del software
-
-<picture>
-  <img align="right" src="RetratoGhibli.jpeg" width="250px" style="border: 2px solid #000; border-radius: 20px;">
-</picture>
 
 ### 🧮 Algoritmos y estructuras
 - Estructura de datos
@@ -111,9 +107,10 @@ Actualmente, amplío mis habilidades en **frontend** con:
 
 ## 💼 Experiencia Profesional
 
-- **[Puesto]** - [Empresa] _(Fecha inicio - fin)_
-  - Descripción breve de tus funciones y logros.
-- **[Otro puesto relevante]**
+- **Practicante** - Nexus Electrónica _(Febrero 2024  - Julio 2024))_
+  - Desarrollé una aplicación de gestión empresarial utilizando C#, ASP.NET y SQL Server. Participé activamente en el diseño, implementación y mantenimiento de la base de datos y la lógica de servidor, aportando soluciones eficientes al proyecto interno. 
+- **Freelancer** - Proyectos independientes _(Enero 2024 – Actualidad)_
+  - Desarrollo soluciones personalizadas para clientes en diversas industrias, actualmente trabajando en una aplicación para gestión de clases de natación y una plataforma para optimización de procesos en una farmacéutica. Amplío constantemente mis competencias a través de desafíos reales, enfocándome en la eficiencia y usabilidad de las soluciones. 
 
 ---
 
@@ -121,15 +118,17 @@ Actualmente, amplío mis habilidades en **frontend** con:
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Nombre Proyecto 1](#) | Breve descripción | ![Tech1](https://img.shields.io/badge/-Tech1-333?style=flat-square&logo=Tech1&logoColor=white) ![Tech2](https://img.shields.io/badge/-Tech2-333?style=flat-square&logo=Tech2&logoColor=white) |
-| [Nombre Proyecto 2](#) | Breve descripción | ![Tech](#) |
+| [Swin-Control-JavaMongo](https://github.com/Daespinoza/Swin-Control-JavaMongo) | Aplicación de escritorio para el control de clases de natación, gestión de horarios y alumnos. | ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=white) |
+| [LabSanAnt-JavaMongo](https://github.com/Daespinoza/LabSanAnt-JavaMongo) | Aplicación de escritorio para digitalizar los procesos administrativos y clínicos de un laboratorio médico. | ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=white) |
+| [Códigos de Bolsillo](https://github.com/Daespinoza/Codigos-de-Bolsillo) | Recopilatorio de códigos de estudio y práctica en diferentes lenguajes de programación. | ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-333?style=flat-square&logo=c-sharp&logoColor=white) |
 
 ---
 
 ## 🌐 Idiomas
 
-- Español (Nativo)
-- Inglés (A2 -> Actualmente en cursos para B2 o C1)
+- Español: Nativo
+- Inglés: Nivel básico, en formación activa (meta: B2/C1; actualmente 
+inscrito en curso intensivo)
 
 ---
 
